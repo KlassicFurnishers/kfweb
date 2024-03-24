@@ -50,7 +50,8 @@ body {
 
 /* Add a class for changing background color */
 .header.scroll {
-    background-color: rgba(255, 255, 255, 0.265); /* Change to your desired color */
+    background-color: rgba(255, 255, 255, 0.4); 
+    z-index:1000;/* Change to your desired color */
 }
 
 
